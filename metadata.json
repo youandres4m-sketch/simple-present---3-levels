@@ -1,0 +1,6 @@
+{
+  "name": "SIMPLE PRESENT MASTER – ACCOUNTING EDITION",
+  "description": "Interactive English learning and slide presentation application for Colombian SENA Accounting Management apprentices covering Affirmative, Negative, and Interrogative Simple Present structures.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
